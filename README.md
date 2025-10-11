@@ -4,6 +4,6 @@ RMElectCtrl
 │   ├── code
 │   │   ├── 1    # 签到题
 │   │   ├── 2    # HelloWorld
-│   └── video    # 演讲视频
+│   └── 
 └── README.md
 ```
