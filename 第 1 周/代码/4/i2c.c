@@ -1,4 +1,5 @@
 #include "i2c.h"
+#include "RM.h"  
 
 static void I2C_Delay(void)
 {
