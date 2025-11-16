@@ -4,8 +4,8 @@ RMElectCtrl
 │   ├── code
 │   │   ├── 1    # 签到题
 │   │   ├── 2    # HelloWorld
-│   └── ├── 3    # GPIO缺省配置
-│   └── ├── 
+│   │   ├── 3    # GPIO缺省配置
+│   └── ├── 4    # 软件模拟i2c
 ├── week2
 │   ├── code
 │   │   ├── 1    # 小灯
