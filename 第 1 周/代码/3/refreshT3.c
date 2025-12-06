@@ -10,7 +10,7 @@ struct speed{
 };
 void GPIO_StructureInit(struct speed *pData)
 {
-    pData->GPIO_Speed = GPIO_Speed_2MHz;   // 默认值
+    pData->GPIO_Speed = GPIO_Speed_2MHz;   
 }
 int main()
 {
@@ -19,4 +19,5 @@ int main()
     GPIO_StructureInit(pDate);   
     
 return 0;
+
 }
